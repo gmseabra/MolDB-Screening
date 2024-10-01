@@ -1,0 +1,19 @@
+﻿Name,Description,# cpds,days @10s/cpd,years
+Tocris_Max,A library of 1280 biologically active compounds from the Tocris catalog.,1280.00,0.15,0.00
+Lopac1280,"biologically annotated collection of inhibitors, receptor ligands, pharma-developed tools, and approved drugs impacts impacts most signaling pathways and covers all major drug target classes",1280.00,0.15,0.00
+Prestwick Chemical Library,"A unique collection of 1520 small molecules, 98% marketed approved drugs (FDA-approved, EMA and JAN approved, and other agencies)",1520.00,0.18,0.00
+ZINClick Diversity,"ZINClick is a virtual combinatorial database of over 16 million of 1,4-disubstituted-1,2,3-triazoles (Molecular Weight ≺ 1000), each can be easily synthesized and it is at the same time new and patentable",2500.00,0.29,0.00
+Otava PrimScreen10,"OTAVA’s Diversity Library comprises the most mixt drug-like screening compounds which were picked from our 260,000+ in-stock compounds to maximize the chemical diversity while maintaining drug-like properties. All compounds passed quality control.",10000.00,1.16,0.00
+DrugBank 5-1-8,"Database of Approved, experimental, nutraceutical, illicit, withdrawn or investigational Drugs",11174.00,1.29,0.00
+TimTec ActiProbe 25k,Assembled from ActiGlobe set (unavailable for download) through Jarvis-Patrick clustering that permits sampling of large library pools through selection of molecules that are representative of a group (cluster) within this library. This is the largest set available for download.,25000.00,2.89,0.01
+ChemSpace Lead Like 25k,"Selected diversity set from the in-stock lead-like compounds for ChemSpace Lead-Like compounds set of 1,208,582 compounds - 24,921",25000.00,2.89,0.01
+TimTec ActiGlobe,Full TimTec Actiglobe collection,50000.00,5.79,0.02
+ChemBridge DiverSet-CL,"Compounds were selected from ChemBridge’s CORE Library (CL) stock of more than 800,000 sp3-enriched, novel, lead-like compounds based on synthetic schemes designed by ChemBridge. Minimal / no overlap with DIVERset-EXP",97520.00,11.28,0.03
+ChemBridge DiverSet-EXP," DIVERSet-EXP Library compounds. Compounds were selected from ChemBridge’s EXPRESS-Pick Stock of more than 500,000 lead-like and drug-like compounds.",100000.00,11.57,0.03
+ChemDiv Representative Diversity Libraries,"Custom made diverse sets of : 50,000 compounds, 100,000 compounds, 150,000 compounds",150000.00,17.36,0.05
+ChemDiv Bemis-Murcko Diverse 300k,300k diverse selection from ChemDiv 1.6M stock is based on Bemis-Murcko clustering workflow,300000.00,34.71,0.10
+ZINClick 10%,A selection of 10% of the molecules from the full ZINClick catalogue (~17M compounds),1690778.00,195.62,0.54
+ZINClick V18,The full collection from ZINClick.,16907779.00,1956.23,5.36
+Mcule Full,Purchasable Mcule supplier & ULTIMATE catalogs,42189343.00,4881.31,13.38
+WuXi GalaXi,Virtual Library for Screening from WuXi,2300000000.00,266110.00,729.33
+Enamine REAL Database,A Sample of the Enamine REAL Space,6750000000.00,780975.00,2140.43
